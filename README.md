@@ -1,4 +1,5 @@
-https://www.commercient.com/wp-content/uploads/2019/12/deepLearning.gif
+![OIP](https://github.com/user-attachments/assets/6d04cbad-da79-4ad0-82ea-96f5c2f0f452)
+
 AI-Powered Email and LinkedIn Message Generator 🚀
 Welcome to the AI-Powered Mail and LinkedIn Message Generator! This application helps recruiters effortlessly craft professional LinkedIn messages tailored to candidates. Leverage AI to save time and focus on what matters most — connecting with talent!
 
