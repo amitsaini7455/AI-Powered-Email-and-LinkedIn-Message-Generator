@@ -1,4 +1,6 @@
-![OIP](https://github.com/user-attachments/assets/6d04cbad-da79-4ad0-82ea-96f5c2f0f452)
+![screenshort landing page](https://github.com/user-attachments/assets/a87c5465-86f2-42c2-bbd6-4b34191f91bb)
+
+![output page](https://github.com/user-attachments/assets/3e8cff9e-3488-4b8c-bfda-2f59c28def95)
 
 AI-Powered Email and LinkedIn Message Generator 🚀 
 Welcome to the AI-Powered Mail and LinkedIn Message Generator! This application helps recruiters effortlessly craft professional LinkedIn messages tailored to candidates. Leverage AI to save time and focus on what matters most — connecting with talent!
