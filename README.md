@@ -38,7 +38,7 @@ Clone this repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/ai-message-generator.git
+git clone (https://github.com/amitsaini7455/AI-Powered-Email-and-LinkedIn-Message-Generator)
 cd ai-message-generator
 Install dependencies:
 
